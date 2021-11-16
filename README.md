@@ -1,4 +1,4 @@
-# SQL
+#!/bin/bash
 
 sudo apt update -y
 
